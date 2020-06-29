@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JSegurosAPI", "JSegurosAPI.csproj", "{C5C3BA58-D49B-4374-AC7E-88E8C3FED5DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSegurosAPI.Test", "..\UserCreate\JSegurosAPI.Test.csproj", "{67E59448-C675-469F-B001-B1045596C583}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5C3BA58-D49B-4374-AC7E-88E8C3FED5DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5C3BA58-D49B-4374-AC7E-88E8C3FED5DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5C3BA58-D49B-4374-AC7E-88E8C3FED5DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5C3BA58-D49B-4374-AC7E-88E8C3FED5DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67E59448-C675-469F-B001-B1045596C583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67E59448-C675-469F-B001-B1045596C583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67E59448-C675-469F-B001-B1045596C583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67E59448-C675-469F-B001-B1045596C583}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32ACC0D2-3010-4560-BA4D-86D2023AB9D5}
+	EndGlobalSection
+EndGlobal
